@@ -11,7 +11,6 @@ var domains = {
     "configuration.apple.com":1,
     "iadsdk.apple.com":1,
     "www.gdmf.apple.com":1,
-    "gdmf.apple.com":1,
     "ppq.apple.com":1,
     "ocsp.int-x3.letsencrypt.org":1,
     "appldnld.apple.com.akadns.net":1,
