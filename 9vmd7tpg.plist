@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+				<plist version="1.0">
+				<dict>
+					<key>items</key>
+					<array>
+						<dict>
+							<key>assets</key>
+							<array>
+								<dict>
+									<key>kind</key>
+									<string>software-package</string>
+									<key>url</key>
+									<string>https://dl.dropboxusercontent.com/s/6u84xtu43bued3i/Youtube_4k_ios14_15.49.4.ipa?dl=0</string>
+								</dict>
+								<dict>
+									<key>kind</key>
+									<string>display-image</string>
+									<key>needs-shine</key>
+									<true/>
+									<key>url</key>
+									<string>https://static.wikia.nocookie.net/logopedia/images/8/82/YT_Icon_2017.svg/revision/latest/scale-to-width-down/340?cb=20200924140233</string>
+								</dict>
+								<dict>
+									<key>kind</key>
+									<string>full-size-image</string>
+									<key>needs-shine</key>
+									<true/>
+									<key>url</key>
+									<string>https://static.wikia.nocookie.net/logopedia/images/8/82/YT_Icon_2017.svg/revision/latest/scale-to-width-down/340?cb=20200924140233</string>
+								</dict>
+							</array>
+							<key>metadata</key>
+							<dict>
+								<key>bundle-identifier</key>
+								<string>i.codevn.9vmd7tpg</string>
+								<key>bundle-version</key>
+								<string>4688</string>
+								<key>kind</key>
+								<string>software</string>
+								<key>title</key>
+								<string>YOUTUBE 4K IOS 14</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+				</plist>
