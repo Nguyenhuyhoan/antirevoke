@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download. -->
           <key>url</key>
-		  <string>https://www.dropbox.com/s/6u84xtu43bued3i/Youtube_4k_ios14_15.49.4.ipa?dl=0</string>          
+		  <string>https://dl.dropboxusercontent.com/s/6u84xtu43bued3i/Youtube_4k_ios14_15.49.4.ipa?dl=0</string>          
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
