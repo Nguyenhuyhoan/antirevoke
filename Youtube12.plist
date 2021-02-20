@@ -11,7 +11,7 @@
 									<key>kind</key>
 									<string>software-package</string>
 									<key>url</key>
-									<string>https://dl.dropboxusercontent.com/s/2hxhrcswgnv2w5s/Youtube_ios13_15.49.4vip7.ipa?dl=0</string>
+									<string>https://dl.dropboxusercontent.com/s/7okzo10cncdcf9r/Youtube15.25.5.ipa?dl=0</string>
 								</dict>
 								<dict>
 									<key>kind</key>
@@ -19,7 +19,7 @@
 									<key>needs-shine</key>
 									<true/>
 									<key>url</key>
-									<string>https://homebay.com.vn/wp-content/uploads/2018/07/Youtube.png/revision/latest/scale-to-width-down/340?cb=20200924140233</string>
+									<string></string>
 								</dict>
 								<dict>
 									<key>kind</key>
@@ -27,7 +27,7 @@
 									<key>needs-shine</key>
 									<true/>
 									<key>url</key>
-									<string>https://homebay.com.vn/wp-content/uploads/2018/07/Youtube.png/revision/latest/scale-to-width-down/340?cb=20200924140233</string>
+									<string></string>
 								</dict>
 							</array>
 							<key>metadata</key>
@@ -39,7 +39,7 @@
 								<key>kind</key>
 								<string>software</string>
 								<key>title</key>
-								<string>YOUTUBE IOS 13 14</string>
+								<string>YOUTUBE IOS 12</string>
 							</dict>
 						</dict>
 					</array>
