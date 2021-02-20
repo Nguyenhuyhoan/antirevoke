@@ -22,7 +22,7 @@
          <key>kind</key>
          <string>display-image</string>
          <key>url</key>
-         <string>https://static.wikia.nocookie.net/logopedia/images/8/82/YT_Icon_2017.svg/revision/latest/scale-to-width-down/340?cb=20200924140233</string>
+         <string></string>
         </dict>
         <!-- full-size-image: the large 512x512 icon used by iTunes. -->
         <dict>
@@ -30,7 +30,7 @@
          <string>full-size-image</string>
          <key>needs-shine</key>
          <true/>
-         <key>url</key><string>https://static.wikia.nocookie.net/logopedia/images/8/82/YT_Icon_2017.svg/revision/latest/scale-to-width-down/340?cb=20200924140233</string>
+         <key>url</key><string></string>
         </dict>
       </array><key>metadata</key>
       <dict>
