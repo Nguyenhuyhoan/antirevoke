@@ -15,9 +15,9 @@ $xml = xml_parser_create();
 xml_parse_into_struct($xml, $data2, $vs);
 xml_parser_free($xml);
 
-$UDID = "";
-$DEVICE_PRODUCT = "";
-$DEVICE_VERSION = "";
+$UDID = "61f267cc76e1c8214768875600f90e608465314f";
+$DEVICE_PRODUCT = "iPhone9,3";
+$DEVICE_VERSION = "iPhone9,3";
 $DEVICE_NAME = "";
 $iterator = 0;
 
