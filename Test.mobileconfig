@@ -5,16 +5,10 @@
     <key>PayloadContent</key>
     <dict>
         <key>URL</key>
-        <string>https://github.com/Nguyenhuyhoan/antirevoke/raw/master/data.php</string>
+        <string>https://gameios.mobi/udid_check/UDID.php</string>
     <key>DeviceAttributes</key>
     <array>
-        <string>UDID</string>
         <string>DEVICE_NAME</string>
-        <string>VERSION</string>
-        <string>PRODUCT</string>
-        <string>MAC_ADDRESS_EN0</string>
-        <string>IMEI</string>
-        <string>ICCID</string>
     </array>
 </dict>
 <key>PayloadOrganization</key>
