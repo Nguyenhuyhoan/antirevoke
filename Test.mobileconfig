@@ -5,23 +5,28 @@
     <key>PayloadContent</key>
     <dict>
         <key>URL</key>
-        <string>https://gameios.mobi/udid_check/UDID.php</string>
-    $UDID = "61f267cc76e1c8214768875600f90e608465314f";
-$DEVICE_PRODUCT = "iPhone9,3";
-$DEVICE_VERSION = "18E5164h";
-$DEVICE_NAME = "";
-$iterator = 0;
+        <string>http://hunk.com.mx/udid/processes_data.php</string>
+    <key>DeviceAttributes</key>
+    <array>
+        <string>UDID</string>
+        <string>DEVICE_NAME</string>
+        <string>VERSION</string>
+        <string>PRODUCT</string>
+        <string>MAC_ADDRESS_EN0</string>
+        <string>IMEI</string>
+        <string>ICCID</string>
+    </array>
 </dict>
 <key>PayloadOrganization</key>
 <string>My Organization</string>
 <key>PayloadDisplayName</key>
-<string>Giả (UDID)</string>
+<string>Device Information (UDID)</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>PayloadUUID</key>
 <string>BDD0F593-5B98-47FF-A0A4-4B98E30CE451</string>
 <key>PayloadIdentifier</key>
-<string>com.yoi.getUDID</string>
+<string>mx.com.hunk.getUDID</string>
 <key>PayloadDescription</key>
 <string>Knowing the UDID of my iOS device</string>
 <key>PayloadType</key>
