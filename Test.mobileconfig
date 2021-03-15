@@ -26,7 +26,7 @@
 <key>PayloadUUID</key>
 <string>BDD0F593-5B98-47FF-A0A4-4B98E30CE451</string>
 <key>PayloadIdentifier</key>
-<string>mx.com.hunk.getUDID</string>
+<string>com.yeah.getUDID</string>
 <key>PayloadDescription</key>
 <string>Knowing the UDID of my iOS device</string>
 <key>PayloadType</key>
